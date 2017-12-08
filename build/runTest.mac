@@ -1,0 +1,8 @@
+/run/initialize
+/tracking/verbose 0
+/process/verbose 0
+
+/B2/det/setTargetMaterial G4_Pb
+
+/gun/energy 1000 keV
+/run/beamOn 1000

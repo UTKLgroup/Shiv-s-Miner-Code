@@ -1,0 +1,2 @@
+/Users/chris/Miner/B2x/build_test/CMakeFiles/exampleB2a.dir
+/Users/chris/Miner/B2x/build_test/CMakeFiles/scripts.dir
